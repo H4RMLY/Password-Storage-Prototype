@@ -8,3 +8,5 @@ The password storage application.
 ## How it works
 1. Install both files within repo
 2. Run passwordList.py
+
+Once a username and password has been entered into the manager a passwords.txt file is created at "./" however this can be changed.
